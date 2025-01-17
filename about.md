@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![My Picture](https://github.com/enachia/minima/blob/7d3dc8d225b9b29dea92de85fdbd2071fddb7c15/ProfileImage.jpg)
+![My Picture](ProfileImage.jpg)
 
 Ena Chia is an undergraduate student at [CUNY New York City College of Technology](https://www.citytech.cuny.edu/physics/), majoring in Applied Computational Physics, and a fellow / student representative at [AstroCom NYC](https://cunyastro.org/astrocom/). Currently in search of understanding how the universe works. 
 
