@@ -6,18 +6,18 @@ permalink: /about/
 
 # Hi! 
 
-Ena Chia is an undergraduate student at [CUNY New York City College of Technology][https://www.citytech.cuny.edu/physics/], majoring in Applied Computational Physics, and a fellow / student representative at [AstroCom NYC][https://cunyastro.org/astrocom/]. Currently in search of understanding how the universe works. 
+Ena Chia is an undergraduate student at [CUNY New York City College of Technology](https://www.citytech.cuny.edu/physics/), majoring in Applied Computational Physics, and a fellow / student representative at [AstroCom NYC](https://cunyastro.org/astrocom/). Currently in search of understanding how the universe works. 
 
-Ena Chia is currently a fellow at [AstroCom NYC][https://cunyastro.org/astrocom/], where she is working with [Dr. Charlotte Olsen][https://charlotteolsen.github.io] on a project to understand how time and location of star formation rate influences a galaxy's evolution. By using simulated data from [N-Body Shop][https://nbody.shop], they'll be able to trace back over time and analyze at which point do stars form. You can find her iPoster from American Astronomical Society 245 Meeting [here][https://aas245-aas.ipostersessions.com/default.aspx?s=0C-AD-83-74-34-C5-36-61-E8-4A-B5-38-BF-19-F9-F2&guestview=true]. She was a finalist for the Chambliss Astronomy Achievement Student Award from the 245th Meeting. 
+Ena Chia is currently a fellow at [AstroCom NYC](https://cunyastro.org/astrocom/), where she is working with [Dr. Charlotte Olsen](https://charlotteolsen.github.io) on a project to understand how time and location of star formation rate influences a galaxy's evolution. By using simulated data from [N-Body Shop](https://nbody.shop), they'll be able to trace back over time and analyze at which point do stars form. You can find her iPoster from American Astronomical Society 245 Meeting [here](https://aas245-aas.ipostersessions.com/default.aspx?s=0C-AD-83-74-34-C5-36-61-E8-4A-B5-38-BF-19-F9-F2&guestview=true). She was a finalist for the Chambliss Astronomy Achievement Student Award from the 245th Meeting. 
 
 ​More about her previous trajectory can be found here.
 
 # Research:
 
-- [Exploring Properties of Resolved Regions In Galaxies Through Cosmic Time][https://github.com/enachia/h277.g14_Simulation]
+- [Exploring Properties of Resolved Regions In Galaxies Through Cosmic Time](https://github.com/enachia/h277.g14_Simulation)
 > April 2024 - Present
 
-- [Cool Cosmic Filaments Protect Galaxies from Hot Gasses][https://github.com/enachia/research]
+- [Cool Cosmic Filaments Protect Galaxies from Hot Gasses](https://github.com/enachia/research)
 > October 2022 - April 2024
 
 ---
@@ -35,6 +35,6 @@ In the future, I aim to continue investigating the deeper physical processes gov
 
 
 Contact:
-[LinkedIn][http://linkedin.com/in/enachia/] / 
-[GitHub][https://github.com/enachia] / 
-[Email] [ena.a.chia@gmail.com] / 
+[LinkedIn](http://linkedin.com/in/enachia/) / 
+[GitHub](https://github.com/enachia) / 
+[Email] (ena.a.chia@gmail.com) 
