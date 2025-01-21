@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-[CV](Ena_Chia_CV.pdf)
+[CV](minima/Ena_Chia_CV.pdf)
