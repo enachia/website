@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-[CV](https://github.com/enachia/website/blob/main/files/EnaChiaCV.pdf)
+[CV](https://github.com/enachia/website/main/assets/EnaChiaCV.pdf)
 ![profilepicture](website/assets/profilePic.jpg)
 ![profilepicture](/wesbite/assets/profilePic.jpg)
 ![profilepicture](./website/assets/profilePic.jpg)
