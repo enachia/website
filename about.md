@@ -37,4 +37,4 @@ In the future, I aim to continue investigating the deeper physical processes gov
 Contact:
 [LinkedIn](http://linkedin.com/in/enachia/) / 
 [GitHub](https://github.com/enachia) / 
-[Email] (ena.a.chia@gmail.com) 
+[Email](mailto:ena.a.chia@gmail.com) 
