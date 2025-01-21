@@ -6,10 +6,10 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Ena Chia
-  CUNY New York City College of Technology
-  AstroCom NYC 
-  ena.a.chia@gmail.com
+- Ena Chia
+- CUNY New York City College of Technology
+- AstroCom NYC 
+- ena.a.chia@gmail.com
 
 # Build settings
 
@@ -36,6 +36,14 @@ header_pages:
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
 
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+include:
+  - files
+  - assets
+  
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   # Minima skin selection.
@@ -73,10 +81,3 @@ minima:
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-markdown: kramdown
-kramdown:
-  parse_block_html: true
-
-include:
-  - files
-  - assets
